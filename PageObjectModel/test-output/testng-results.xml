@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="226612" started-at="2020-07-07T16:52:57Z" finished-at="2020-07-07T16:56:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="226612" started-at="2020-07-07T16:52:57Z" finished-at="2020-07-07T16:56:44Z">
+      <class name="com.test.UserTest">
+        <test-method status="PASS" signature="getDriver()[pri:0, instance:com.test.UserTest@39f31e]" name="getDriver" is-config="true" duration-ms="37706" started-at="2020-07-07T22:22:57Z" finished-at="2020-07-07T22:23:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method status="PASS" signature="navigateToDashboard()[pri:0, instance:com.test.UserTest@39f31e]" name="navigateToDashboard" duration-ms="31608" started-at="2020-07-07T22:23:35Z" finished-at="2020-07-07T22:24:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToDashboard -->
+        <test-method status="PASS" signature="clickOnUser()[pri:0, instance:com.test.UserTest@39f31e]" name="clickOnUser" duration-ms="31394" started-at="2020-07-07T22:24:07Z" finished-at="2020-07-07T22:24:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnUser -->
+        <test-method status="PASS" signature="clickAddUser()[pri:0, instance:com.test.UserTest@39f31e]" name="clickAddUser" duration-ms="35009" started-at="2020-07-07T22:24:38Z" finished-at="2020-07-07T22:25:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickAddUser -->
+        <test-method status="PASS" signature="addUserTest()[pri:0, instance:com.test.UserTest@39f31e]" name="addUserTest" duration-ms="90851" started-at="2020-07-07T22:25:13Z" finished-at="2020-07-07T22:26:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUserTest -->
+      </class> <!-- com.test.UserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
